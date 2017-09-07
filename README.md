@@ -6,7 +6,7 @@ Yii2 中国省市区三级联动(https://github.com/ran1990/yii2-region-custom)
 添加到你的composer.json文件
 
 ```
-"yii2-region-custom": "dev-master"
+"life2016/yii2-region-custom": "dev-master"
 ```
 
 ## 配置
